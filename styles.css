@@ -1,0 +1,99 @@
+
+body {
+  background-color: #faf0e6;
+   font-family: "Hiragino Kaku Gothic ProN";
+}
+
+header {
+background-image:url("../img/IMG_2418.jpg");
+background-size:cover;
+height:500px;
+
+}
+
+.top-wrapper h1 {
+text-align:center;
+padding: 170px 0px 0px 0px;
+font-size:150px;
+border-bottom:2px solid white;
+color:white;
+opacity:0.5;
+line-height:150px;
+}
+
+.container {
+  background-color:black;
+  height:700px;
+  border:10px solid gray;
+  margin-bottom:250px;
+}
+
+.container h2 {
+  color:white;
+  opacity:0.8;
+  text-align:center;
+  font-size:50px;
+  font-weight:normal;
+  line-height:130px;
+}
+
+.contents {
+  padding-top:41px;
+  background-color:blue;
+  height:700px;
+}
+
+.img {
+height:700px;
+width:700px;
+}
+
+.bgm h1 {
+  color:white;
+  font-size:50px;
+  position:relative;
+  bottom:450px;
+  left:75px;
+  z-index:10;
+  opacity:0.7;
+}
+
+a {
+  text-decoration:none;
+}
+
+.bgm a {
+display:inline-block;
+background-color:black;
+padding:0px 10px;
+border-radius:40px;
+color:white;
+font-size:100px;
+position:relative;
+left:950px;
+bottom:550px;
+}
+
+footer {
+  background-color:black;
+  height:100px;
+  position:relative;
+  top:1100px;
+}
+
+.footer-contents {
+  width:500px;
+  height:50px;
+  margin:0 auto;
+}
+
+footer a  {
+  color:white;
+  background-color:blue;
+  padding:5px 5px;
+  border-radius:8px;
+  text-align:center;
+  display:block;
+  font-size:30px;
+  position:relative;
+  top:20px;
